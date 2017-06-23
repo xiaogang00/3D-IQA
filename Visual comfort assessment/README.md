@@ -1,0 +1,2 @@
+This is the work which aimed at complete the visual comfort assessment for stereoscopic 3D images. All this work is based on salient discomfort regions. we predict the visual comfort score from salient discomfort regions by a disparity feature vector which combines saliency-weighted disparity and maximum
+disparity.  
